@@ -14,19 +14,8 @@ The dataset was compiled by Jan Llenzl Dagohoy and is available on kaggle.com. I
 - Folklore
 - evermore
 
-## Resources
-To delve deeper into text analysis and learn how to apply Natural Language Processing with Python, numerous educational resources are available that can be beneficial for this project.
-
-## Using Jupyter Notebooks
-- **Running Cells**: Execute a cell by placing your cursor inside it and clicking the Run button or pressing Shift+Enter/Return.
-- **Saving Work**: Frequently save your progress. Click the Save button at the top of the Notebook or use the command+s shortcut.
-- **Downloading Notebooks**: Download a copy of your notebook for later reference via File > Download as > Notebook (.ipynb).
-
 ## How to Contribute
 Contributions are welcomed. Enhance the project by improving code, adding new features, or refining the analysis methods. Feel free to fork the repository and submit pull requests with your changes.
-
-## License
-This project is open-source and available under standard licenses. Refer to the LICENSE file in the repository for more details.
 
 ## Contact
 For inquiries or contributions, please contact the project maintainer at huijiawang1023@gmail.com.
